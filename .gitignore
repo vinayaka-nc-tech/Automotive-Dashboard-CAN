@@ -1,0 +1,11 @@
+build/
+dist/
+*.hex
+*.elf
+*.o
+*.cof
+*.map
+*.lst
+*.sdb
+*:Zone.Identifier
+**/nbproject/private/
